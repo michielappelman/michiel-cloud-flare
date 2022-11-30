@@ -1,6 +1,0 @@
-name = "michiel-cloud-flare"
-main = "index.ts"
-compatibility_date = "2022-11-30"
-routes = [
-    { pattern = "michiel.cloud/flare", zone_id = "a5f602516dd5792ca66292c7379ecd83" }
-]
