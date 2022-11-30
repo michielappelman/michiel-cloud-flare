@@ -1,0 +1,3 @@
+name = "michiel-cloud-flare"
+main = "index.ts"
+compatibility_date = "2022-11-30"
